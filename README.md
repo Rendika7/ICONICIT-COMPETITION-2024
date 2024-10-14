@@ -10,24 +10,19 @@ This repository contains all the deliverables for the ICONICIT Data Science Comp
 
 ### 1. **Data Science Report**
    - A comprehensive analysis explaining how we approached the problem using machine learning models such as Quadratic Discriminant Analysis (QDA), Extreme Gradient Boosting (XGBoost), and K-Nearest Neighbors (KNN).
-   - File: `DataScience_Report.pdf`
+   - File: `Penerapan Machine Learning Dalam Mempersonalisasi Profil Pengguna Berdasarkan Aktivitas Pembelajaran Online.pdf`
 
 ### 2. **Code Implementation**
    - The complete code used for data preprocessing, feature engineering, model training, and evaluation.
-   - Folder: `src/`
-     - `data_preprocessing.py`: Handles missing values, outliers, and feature scaling.
-     - `model_training.py`: Contains the model-building logic, with QDA, XGBoost, and KNN.
-     - `model_evaluation.py`: Script for evaluating model performance.
-     - `feature_engineering.py`: Feature extraction techniques applied to the dataset.
-   - Jupyter Notebook: `data_science_solution.ipynb`
+   - Jupyter Notebook: `Royals Outlaws - Submission.ipynb`
 
 ### 3. **PPT Presentation**
    - The slides used during our final presentation, showcasing the project overview, methodology, and results.
-   - File: `ICONICIT_Presentation.pptx`
+   - File: `Royals Outlaws Presentation Slide.pdf`
 
-### 4. **Presentation Video**
-   - A link to the video presentation of our solution.
-   - Link: [Presentation Video](#) (Update with actual link)
+### 4. **Preliminary Round Presentation Video**
+   - The video demo we submitted for the preliminary round, where we presented our model and solution approach.
+     [![Preliminary Round Presentation Video](https://github.com/Rendika7/ICONICIT-COMPETITION-2024/blob/main/source/Opening%20-%201.png?raw=true)](https://www.youtube.com/watch?v=P0Q_moxpfjE)
 
 ---
 
